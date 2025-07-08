@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Emotion Detection from Facial Images
 
 This project uses a CNN model to classify facial expressions into 7 emotion categories using grayscale images.
@@ -12,8 +11,6 @@ This project uses a CNN model to classify facial expressions into 7 emotion cate
 ## How to Run
 1. Install dependencies:
 =======
-# emotion_detector
->>>>>>> d11b0b9630e7c817cff51234505e921bc9f8e141
  dataset_path/
 │
 ├── train/
@@ -38,7 +35,7 @@ Each folder contains grayscale images of faces labeled with one of the 7 emotion
 
 ---
 
-## 🧠 Model Architecture
+Model Architecture
 
 - Input size: `48x48` grayscale images
 - Layers:
@@ -54,8 +51,6 @@ The model is trained using:
 - Metrics: `accuracy`
 
 ---
-
-## ▶️ How to Run
 
 ### 1. Clone the repository
 
